@@ -13,6 +13,8 @@ public class RecycableInventoryManager : MonoBehaviour, IRecyclableScrollRectDat
     [SerializeField]
     private int _datalength;
 
+    public GameObject inventoryGameObject;
+
     private List<InventoryItems> _InventoryItems = new List<InventoryItems>();
 
     private void Awake()
@@ -59,6 +61,11 @@ public class RecycableInventoryManager : MonoBehaviour, IRecyclableScrollRectDat
             InventoryItems inventoryItemDemo = new InventoryItems("Cay", "Cay");
             _InventoryItems.Add(inventoryItemDemo);
             _recyclableScrollRect.ReloadData();
+        }
+
+        if (Input.GetKeyDown(KeyCode.B)) //bag
+        {
+            inventoryGameObject.SetActive(!inventoryGameObject.activeSelf);
         }
     }
 

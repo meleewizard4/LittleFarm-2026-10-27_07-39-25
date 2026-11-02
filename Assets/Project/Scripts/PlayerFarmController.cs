@@ -63,7 +63,10 @@ public class PlayerFarmCotroller : MonoBehaviour
 
                 //Lay item va them vao tui do
                 InventoryItems itemFlower = new InventoryItems();
-                itemFlower.Name = ""
+                itemFlower.Name = "Test Cay";
+                itemFlower.Description = "Cay Test";
+
+                Debug.Log(itemFlower.ToString());
             }
         }
 
