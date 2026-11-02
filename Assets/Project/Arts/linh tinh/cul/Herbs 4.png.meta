@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: 16017387e6c1d334198e122153c0a59f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4469184017394244053
+    second: Herbs 4_0
+  - first:
+      213: 1397324125535774786
+    second: Herbs 4_1
+  - first:
+      213: -8959390543938253189
+    second: Herbs 4_2
+  - first:
+      213: 3557577953114850810
+    second: Herbs 4_3
+  - first:
+      213: 7809851586972468534
+    second: Herbs 4_4
+  - first:
+      213: 2508321297747916762
+    second: Herbs 4_5
+  - first:
+      213: -775499698171260056
+    second: Herbs 4_6
+  - first:
+      213: 8033078838443802618
+    second: Herbs 4_7
+  - first:
+      213: 8293502290385867681
+    second: Herbs 4_8
+  - first:
+      213: -4267690633747814874
+    second: Herbs 4_9
+  - first:
+      213: 8030249011090811491
+    second: Herbs 4_10
+  - first:
+      213: -3994244253775794474
+    second: Herbs 4_11
+  - first:
+      213: -7506887580794792107
+    second: Herbs 4_12
+  - first:
+      213: 5776103131998680300
+    second: Herbs 4_13
+  - first:
+      213: 4451701254285915076
+    second: Herbs 4_14
+  - first:
+      213: 188396360979385457
+    second: Herbs 4_15
+  - first:
+      213: -8553796631275029080
+    second: Herbs 4_16
+  - first:
+      213: -6263958552694371234
+    second: Herbs 4_17
+  - first:
+      213: -2030378098258974897
+    second: Herbs 4_18
+  - first:
+      213: -3609306685084933199
+    second: Herbs 4_19
+  - first:
+      213: -965270809420528686
+    second: Herbs 4_20
+  - first:
+      213: 5983926264895593861
+    second: Herbs 4_21
+  - first:
+      213: -49611874553066360
+    second: Herbs 4_22
+  - first:
+      213: -3121950312540801047
+    second: Herbs 4_23
+  - first:
+      213: -5243392583670208487
+    second: Herbs 4_24
+  - first:
+      213: 4170626296987760284
+    second: Herbs 4_25
+  - first:
+      213: -8872940329677224977
+    second: Herbs 4_26
+  - first:
+      213: -1805222149249785245
+    second: Herbs 4_27
+  - first:
+      213: 3466550425122093878
+    second: Herbs 4_28
+  - first:
+      213: 1031024942928865478
+    second: Herbs 4_29
+  - first:
+      213: 6063119603182527244
+    second: Herbs 4_30
+  - first:
+      213: 6245179807233266491
+    second: Herbs 4_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Herbs 4_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 750
+        width: 36
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d913a06f2bb50e30800000000000000
+      internalID: 4469184017394244053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 751
+        width: 117
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a4aa83ea446310800000000000000
+      internalID: 1397324125535774786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 741
+        width: 92
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e0198e4c9d9a380800000000000000
+      internalID: -8959390543938253189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 740
+        width: 228
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50c2cac4e0f5130800000000000000
+      internalID: 3557577953114850810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 748
+        width: 130
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c306d3aa226c60800000000000000
+      internalID: 7809851586972468534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 536
+        width: 161
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7bfce3ee85fc220800000000000000
+      internalID: 2508321297747916762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 546
+        width: 43
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863541f122fdc35f0800000000000000
+      internalID: -775499698171260056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 555
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff762a74aa3b7f60800000000000000
+      internalID: 8033078838443802618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 542
+        width: 52
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3965a6460781370800000000000000
+      internalID: 8293502290385867681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_9
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 557
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6262334dafd16c4c0800000000000000
+      internalID: -4267690633747814874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 569
+        width: 133
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aeff3fdec217f60800000000000000
+      internalID: 8030249011090811491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_11
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 560
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de6c8b73089198c0800000000000000
+      internalID: -3994244253775794474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 548
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575fe9b48d22d790800000000000000
+      internalID: -7506887580794792107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_13
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 385
+        width: 122
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47dc80237d82050800000000000000
+      internalID: 5776103131998680300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 382
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37fd364be97cd30800000000000000
+      internalID: 4451701254285915076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 376
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c072dfd715d9200800000000000000
+      internalID: 188396360979385457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 376
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad3be7a84fca4980800000000000000
+      internalID: -8553796631275029080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 377
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc1ea52e2f119a0800000000000000
+      internalID: -6263958552694371234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 389
+        width: 109
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f476a8580e5a2d3e0800000000000000
+      internalID: -2030378098258974897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 380
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e11e51ba29edc0800000000000000
+      internalID: -3609306685084933199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 212
+        width: 157
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d38f64205baa92f0800000000000000
+      internalID: -965270809420528686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 207
+        width: 163
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d5b35db3d2b0350800000000000000
+      internalID: 5983926264895593861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 204
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8f90534ebf4ff0800000000000000
+      internalID: -49611874553066360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_23
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 193
+        width: 118
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7f5964bba9ca4d0800000000000000
+      internalID: -3121950312540801047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_24
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 191
+        width: 111
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186b60d93abb37b0800000000000000
+      internalID: -5243392583670208487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 191
+        width: 123
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96bbda258a01e930800000000000000
+      internalID: 4170626296987760284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 151
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe30a50f7cbfcd480800000000000000
+      internalID: -8872940329677224977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 18
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ac4d050092f6e0800000000000000
+      internalID: -1805222149249785245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 24
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb16dbe39ab1030800000000000000
+      internalID: 3466550425122093878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_29
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 23
+        width: 245
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a7d519bfee4e00800000000000000
+      internalID: 1031024942928865478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 109
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03e662c727842450800000000000000
+      internalID: 6063119603182527244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Herbs 4_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 24
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33d49042f55ba650800000000000000
+      internalID: 6245179807233266491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

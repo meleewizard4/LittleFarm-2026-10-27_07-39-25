@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: c4bb066009d97254b93893a8d43afd59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6491556680958258563
+    second: Seeds 2_0
+  - first:
+      213: 3955353623287807272
+    second: Seeds 2_1
+  - first:
+      213: -274024515288992317
+    second: Seeds 2_2
+  - first:
+      213: -898743662680516993
+    second: Seeds 2_3
+  - first:
+      213: -549998658863220391
+    second: Seeds 2_4
+  - first:
+      213: -5168091214621673535
+    second: Seeds 2_5
+  - first:
+      213: 8683283457708685829
+    second: Seeds 2_6
+  - first:
+      213: 263127562577423805
+    second: Seeds 2_7
+  - first:
+      213: -7714312061665202848
+    second: Seeds 2_8
+  - first:
+      213: 933300197910787361
+    second: Seeds 2_9
+  - first:
+      213: -2143338596496376475
+    second: Seeds 2_10
+  - first:
+      213: -2272135680593816029
+    second: Seeds 2_11
+  - first:
+      213: 5150019178011541318
+    second: Seeds 2_12
+  - first:
+      213: 6703574998929045845
+    second: Seeds 2_13
+  - first:
+      213: -4471035179794292956
+    second: Seeds 2_14
+  - first:
+      213: -1455008848096560033
+    second: Seeds 2_15
+  - first:
+      213: -5831974815803169696
+    second: Seeds 2_16
+  - first:
+      213: -1465553676436077226
+    second: Seeds 2_17
+  - first:
+      213: 4759600561212468137
+    second: Seeds 2_18
+  - first:
+      213: 1563908018939955811
+    second: Seeds 2_19
+  - first:
+      213: 5568895443609704368
+    second: Seeds 2_20
+  - first:
+      213: -7162965667614041661
+    second: Seeds 2_21
+  - first:
+      213: 1428303268703507622
+    second: Seeds 2_22
+  - first:
+      213: -911976762600414208
+    second: Seeds 2_23
+  - first:
+      213: 8529157497940675639
+    second: Seeds 2_24
+  - first:
+      213: 7871192841269486041
+    second: Seeds 2_25
+  - first:
+      213: -7099693334340224521
+    second: Seeds 2_26
+  - first:
+      213: -820835913594582647
+    second: Seeds 2_27
+  - first:
+      213: 4346892087720565291
+    second: Seeds 2_28
+  - first:
+      213: 5027118844140009132
+    second: Seeds 2_29
+  - first:
+      213: -1818205360595523729
+    second: Seeds 2_30
+  - first:
+      213: -2926210599388922496
+    second: Seeds 2_31
+  - first:
+      213: -1688435245921208999
+    second: Seeds 2_32
+  - first:
+      213: -5546727448728368657
+    second: Seeds 2_33
+  - first:
+      213: -6197712656460345145
+    second: Seeds 2_34
+  - first:
+      213: -4743782536658543214
+    second: Seeds 2_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seeds 2_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 806
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d725b28a79b59e5a0800000000000000
+      internalID: -6491556680958258563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 808
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dbf1df92d34e630800000000000000
+      internalID: 3955353623287807272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 809
+        width: 99
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5737ab728723cf0800000000000000
+      internalID: -274024515288992317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 804
+        width: 98
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f765bc986650783f0800000000000000
+      internalID: -898743662680516993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 807
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959348f32230e58f0800000000000000
+      internalID: -549998658863220391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_5
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 805
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c778a90c604748b0800000000000000
+      internalID: -5168091214621673535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 657
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a70cc7c48318870800000000000000
+      internalID: 8683283457708685829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 659
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdaa02cf11d6a300800000000000000
+      internalID: 263127562577423805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 654
+        width: 75
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d2fe55d0241f490800000000000000
+      internalID: -7714312061665202848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 658
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125364dc59fb3fc00800000000000000
+      internalID: 933300197910787361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 661
+        width: 76
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56df27207e45142e0800000000000000
+      internalID: -2143338596496376475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 655
+        width: 74
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32617b403a0c770e0800000000000000
+      internalID: -2272135680593816029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 489
+        width: 101
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb3db082b887740800000000000000
+      internalID: 5150019178011541318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 493
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559fa58c1f1e70d50800000000000000
+      internalID: 6703574998929045845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_14
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 493
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f161a4131b3f1c0800000000000000
+      internalID: -4471035179794292956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 494
+        width: 95
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c77206925cecbe0800000000000000
+      internalID: -1455008848096560033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_16
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 500
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064270dddc9a01fa0800000000000000
+      internalID: -5831974815803169696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 493
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65582c432be49abe0800000000000000
+      internalID: -1465553676436077226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 293
+        width: 101
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aba1d33e7f7d0240800000000000000
+      internalID: 4759600561212468137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 297
+        width: 101
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a0d4aae0e14b510800000000000000
+      internalID: 1563908018939955811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 296
+        width: 99
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d5a396e0b84d40800000000000000
+      internalID: 5568895443609704368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_21
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 294
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9db832da8089c90800000000000000
+      internalID: -7162965667614041661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_22
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 294
+        width: 92
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a41a92614a52d310800000000000000
+      internalID: 1428303268703507622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_23
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 296
+        width: 99
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004aacd57f10853f0800000000000000
+      internalID: -911976762600414208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c0d121e87ad5670800000000000000
+      internalID: 8529157497940675639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 146
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1277e8f281c3d60800000000000000
+      internalID: 7871192841269486041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 148
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f931783782d87d90800000000000000
+      internalID: -7099693334340224521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_27
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 146
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989cf47e51ecb94f0800000000000000
+      internalID: -820835913594582647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_28
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 147
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a5a8da253435c30800000000000000
+      internalID: 4346892087720565291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_29
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 149
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca633a434f9e3c540800000000000000
+      internalID: 5027118844140009132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f672ef89bdf64c6e0800000000000000
+      internalID: -1818205360595523729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08db07da6f20467d0800000000000000
+      internalID: -2926210599388922496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 11
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955fd9ce6197198e0800000000000000
+      internalID: -1688435245921208999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe903a0f5c01603b0800000000000000
+      internalID: -5546727448728368657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_34
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 9
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c01db30d2d4df9a0800000000000000
+      internalID: -6197712656460345145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seeds 2_35
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 10
+        width: 84
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d14c2aae2ba2eb0800000000000000
+      internalID: -4743782536658543214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
