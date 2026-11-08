@@ -43,10 +43,10 @@ public class RecycableInventoryManager : MonoBehaviour, IRecyclableScrollRectDat
             inventoryItem.Description = "Des_" + i.ToString();
 
             listItem.Add(inventoryItem);
-            
         }
         SetListItem(listItem);
         _recyclableScrollRect.ReloadData();
+        ToggleInventory();
     }
 
     public void SetListItem(List<InventoryItems> list)
@@ -56,18 +56,21 @@ public class RecycableInventoryManager : MonoBehaviour, IRecyclableScrollRectDat
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I))
-        {
-            InventoryItems inventoryItemDemo = new InventoryItems("Cay", "Cay");
-            _InventoryItems.Add(inventoryItemDemo);
-            _recyclableScrollRect.ReloadData();
-        }
-
         if (Input.GetKeyDown(KeyCode.B)) //bag
         {
-            inventoryGameObject.SetActive(!inventoryGameObject.activeSelf);
+            ToggleInventory();
         }
     }
 
+    public void AddInventoryItem(InventoryItems item)
+    {
+        _InventoryItems.Add(item);
+        _recyclableScrollRect.ReloadData();
+    }
 
+    void ToggleInventory()
+    {
+        Vector3 crrPosInven = inventoryGameObject.GetComponent<RectTransform>().anchoredPosition;
+        inventoryGameObject.GetComponent<RectTransform>().anchoredPosition = crrPosInven.y == 1000 ? Vector3.zero : new Vector3(0, 1000, 0);
+    }
 }

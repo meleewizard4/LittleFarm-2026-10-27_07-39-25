@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "534708548950",
+    "firebase_url": "https://littlefarm-bb499-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "littlefarm-bb499",
+    "storage_bucket": "littlefarm-bb499.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534708548950:android:6035e5195f9a78a2a452f7",
+        "android_client_info": {
+          "package_name": "com.meleewizard.LittleFarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp6AysRsLB4Sgzcui9sOHVd73YyyyfJBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
